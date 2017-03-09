@@ -34,7 +34,6 @@
     <div class="row">
 	<form   action="ekle" method="POST" name="form" >
 	
-	
 			<div class="form-group">
     		<label for="isim">İsim Soyisim:</label>
  		   <input type="text" class="form-control" name="name"/>
